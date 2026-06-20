@@ -1,0 +1,7 @@
+prácticas básicas de seguridad digita
+
+1. Activar la autenticación en dos pasos (2FA) para agregar una capa extra de protección a las cuentas.
+
+2. Realizar copias de seguridad periódicas de la información importante para evitar la pérdida de datos.
+
+3. Evitar abrir enlaces o archivos adjuntos de correos y mensajes sospechosos para prevenir fraudes y malware.

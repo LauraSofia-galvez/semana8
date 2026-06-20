@@ -1,0 +1,16 @@
+Información del sistema
+
+Usuario actual (whoami):
+desktop-ufklsv3\user
+
+Información del sistema:
+
+ Sistema operativo: Microsoft Windows 11 Home.
+ Versión: 10.0.26200.
+ Tipo de sistema: PC basado en x64.
+ Fabricante: Samsung Electronics Co., Ltd.
+ Modelo: 750TDA.
+ Procesador: Intel64 Family 6 Model 140 Stepping 1 GenuineIntel ~2419 MHz.
+ Memoria física total: 7.915 MB.
+
+Conocer la información del sistema es útil cuando se administra un servidor porque permite identificar las características del equipo, el sistema operativo, la capacidad de memoria y otros recursos disponibles. Esta información ayuda a detectar problemas, verificar que el servidor cumpla con los requisitos necesarios y realizar tareas de mantenimiento de forma más eficiente. Además, facilita la toma de decisiones para mejorar el rendimiento y la seguridad del sistema.
